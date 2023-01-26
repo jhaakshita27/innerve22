@@ -134,8 +134,8 @@ jQuery(document).ready(function( $ ) {
     }
   });
 
-  $(".submit").click(function(){
-    alert("Your message has been sent. Thank you!");
-})
+//   $(".submit").click(function(){
+//     alert("Your message has been sent. Thank you!");
+// })
 
 });

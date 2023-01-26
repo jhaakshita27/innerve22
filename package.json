@@ -1,0 +1,27 @@
+{
+  "name": "innerve22",
+  "version": "1.0.0",
+  "description": "An event page for IGDTUW's (my college) annual technical fest Innerve <br>\r It was made for Innerve 2021 as my application for the post of Head coordinator in Innerve's Web Development team <br>\r Fun fact: I got selected and got a chance to work on the main event pages of Innerve <br>\r Link to the above site: https://jhaakshita27.github.io/innerve-project/ <br>\r Link of main site: https://innerve-igdtuw.github.io/Innerve-IGDTUW-2020/landing.html",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhaakshita27/innerve-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhaakshita27/innerve-project/issues"
+  },
+  "homepage": "https://github.com/jhaakshita27/innerve-project#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
